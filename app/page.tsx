@@ -1,6 +1,6 @@
 'use client';
 
-import ComparisonView from './components/ComparisonView';
+import ComparisonView from './components/client/ComparisonView';
 
 export default function Home() {
   return (
